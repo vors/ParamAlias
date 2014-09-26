@@ -16,3 +16,6 @@ Create alias `rmrf` for `rm -Recurse -Force`
 
     Set-ParamAlias -Name rmrf -Command rm -parametersBinding @{Recurse = '$true'; Force = '$true'}
 
+
+## .References
+Inspired by [Jeffery Hicks' post](http://jdhitsolutions.com/blog/2014/09/making-the-shell-work-for-you-revisited/).
