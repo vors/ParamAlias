@@ -3,7 +3,7 @@ ParamAlias
 
 Aliases with param binding in powershell.
 
-Create functions from existing functiosn with pre-binded parameter sets.
+Create functions from existing functions with pre-binded parameter sets.
 To check source of the new function `foo` use `$function:foo`
 
 ##.Examples
